@@ -1,0 +1,4 @@
+{
+  "getTask":"https://interview.adpeai.com/api/v1/get-task",
+  "submitTask":"https://interview.adpeai.com/api/v1/submit-task"
+}

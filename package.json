@@ -1,0 +1,14 @@
+{
+  "name": "adp",
+  "version": "1.0.0",
+  "description": "a test for adp, features a get and post request",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tahmid",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
